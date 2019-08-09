@@ -5,7 +5,7 @@ This library is similar to my [MultiTypeBinder](https://github.com/amir734jj/Mul
 [![pipeline status](https://gitlab.com/hesamian/MultiTypeBinder-Expr/badges/master/pipeline.svg)](https://gitlab.com/hesamian/MultiTypeBinder-Expr/commits/master)
 
 
-[NuGet](https://www.nuget.org/packages/MultiTypeBinder-Expr/)
+[NuGet](https://www.nuget.org/packages/multi-type-binder-expr/)
 
 
 ```csharp
