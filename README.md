@@ -1,6 +1,6 @@
 # MultiTypeBinder-Expr
 
-This library is similar to my [MultiTypeBinder](https://github.com/amir734jj/MultiTypeBinder) but used LINQ Expression tress to build getter and setters.
+This library is similar to my [MultiTypeBinder](https://github.com/amir734jj/MultiTypeBinder) but uses LINQ Expression tress to build getter and setters.
 
 [![pipeline status](https://gitlab.com/hesamian/MultiTypeBinder-Expr/badges/master/pipeline.svg)](https://gitlab.com/hesamian/MultiTypeBinder-Expr/commits/master)
 
